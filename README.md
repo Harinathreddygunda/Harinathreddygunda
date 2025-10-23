@@ -1,6 +1,12 @@
 <!-- Banner / Header -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.icons8.com/color/96/devops.png" alt="DevOps Logo"/>
+</p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harinathreddygunda/Harinathreddygunda/main/My-FormalPIC.JPG" 
+       alt="Harinath Reddy Gunda" 
+       width="180" 
+       style="border-radius:50%; border:3px solid #0078D7"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Harinath Reddy Gunda</h1>
