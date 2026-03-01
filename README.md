@@ -3,7 +3,7 @@
   <img src="https://img.icons8.com/color/96/devops.png" alt="DevOps Logo"/>
 </p> -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harinathreddygunda/Harinathreddygunda/main/My-FormalPIC.JPG" 
+  <img src="https://raw.githubusercontent.com/Harinathreddygunda/Harinathreddygunda/main/68747470733a2f2f6c697665696d616765732e616c676f776f726b732e636f6d2f6e65772d616c676f776f726b732f77702d636f6e74656e742f75706c6f6164732f323032322f30352f33313130333033332f6465764f70732d636c6f75642d6e61746976652e676966.gif" 
        alt="Harinath Reddy Gunda" 
        width="180" 
        style="border-radius:50%; border:3px solid #0078D7"/>
