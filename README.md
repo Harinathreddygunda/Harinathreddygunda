@@ -35,9 +35,11 @@
 - 🛠️ Strong background in **CI/CD**, **Cloud Platforms**, **Containers**, and **Monitoring** -->
 ## 👨‍💻 About Me
 
+## 👨‍💻 About Me
+
 <table>
 <tr>
-<td width="55%">
+<td width="60%" valign="top">
 
 - 🔭 Currently working as a **DevOps Engineer** at **Techno Consulting Services** *(Remote)*  
 - 📍 Based in **Hyderabad, Telangana, India 🇮🇳**  
@@ -47,11 +49,9 @@
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center">
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/Harinathreddygunda/Harinathreddygunda/main/cloud-dev.mp4" type="video/mp4">
-</video>
+<img src="https://raw.githubusercontent.com/Harinathreddygunda/Harinathreddygunda/main/cloud-dev.gif" width="100%" />
 
 </td>
 </tr>
