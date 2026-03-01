@@ -26,13 +26,36 @@
 
 ---
 
-## 👨‍💻 About Me
+<!-- ## 👨‍💻 About Me
 
 - 🔭 Currently working as a **DevOps Engineer** at **Techno Consulting Services** *(Remote)*
 - 📍 Based in **Hyderabad, Telangana, India 🇮🇳**
 - 🧑‍💼 Joined as an **Intern in July 2024**, promoted to **Full-time Employee in September 2024**
 - ⚙️ Passionate about automation, cloud-native development, and scalable DevOps solutions
+- 🛠️ Strong background in **CI/CD**, **Cloud Platforms**, **Containers**, and **Monitoring** -->
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+- 🔭 Currently working as a **DevOps Engineer** at **Techno Consulting Services** *(Remote)*  
+- 📍 Based in **Hyderabad, Telangana, India 🇮🇳**  
+- 🧑‍💼 Joined as an **Intern in July 2024**, promoted to **Full-time Employee in September 2024**  
+- ⚙️ Passionate about automation, cloud-native development, and scalable DevOps solutions  
 - 🛠️ Strong background in **CI/CD**, **Cloud Platforms**, **Containers**, and **Monitoring**
+
+</td>
+
+<td width="45%" align="center">
+
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/Harinathreddygunda/Harinathreddygunda/main/cloud-dev.mp4" type="video/mp4">
+</video>
+
+</td>
+</tr>
+</table>
 
 ---
 
