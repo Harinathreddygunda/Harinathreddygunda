@@ -140,10 +140,10 @@ Learning & experimenting with:
 ---
 
 # 📈 GitHub Stats
-
+<!-- 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harinathreddygunda&theme=tokyonight"/>
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harinathreddygunda&theme=tokyo-night&hide_border=true" />
