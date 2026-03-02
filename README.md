@@ -52,30 +52,53 @@
 
 ## 🛠️ Tools & Technologies
 
-### 🚀 DevOps & CI/CD
-- Azure DevOps, Jenkins, GitHub Actions, GitLab CI
-- CI/CD pipeline creation, testing automation, blue-green & canary deployments
-
 ### ☁️ Cloud & Infrastructure
-- Microsoft Azure, AWS, GCP
-- Terraform, Bicep, ARM Templates
+<p>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform,ansible" />
+</p>
 
 ### 🐳 Containers & Orchestration
-- Docker, Kubernetes (AKS, EKS, GKE)
-- Helm, NGINX, Ingress Controllers
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
+</p>
 
-### 🔧 Utilities & Monitoring
-- Azure Boards, JIRA, Azure Artifacts
-- NGINX Server, IIS Server
-- Prometheus, Grafana, Azure Monitor
+### 🔁 CI/CD & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" />
+</p>
 
----
+### 📊 Observability & Monitoring
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+<img height="48" src="https://cdn.simpleicons.org/fluentd/0B5FFF" />
+</p>
+
+### 🔐 Security & DevSecOps
+<p>
+<!-- <img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" /> -->
+<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" />
+</p>
+
+### 🗄️ Version Control & Collaboration
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+### 🖥️ Scripting & OS
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,linux" />
+</p>
+
+<!-- ---
 
 ## 📸 DevOps in Action
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1482151/screenshots/9872395/media/2ae350e2b4c0183b3f47cb3163911a4a.gif" width="80%" alt="DevOps Animation"/>
-</p>
+</p> -->
 
 ---
 
@@ -99,6 +122,10 @@
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harinathreddygunda&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harinathreddygunda&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
