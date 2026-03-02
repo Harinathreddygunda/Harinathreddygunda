@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Harinathreddygunda/Harinathreddygunda/main/68747470733a2f2f6c697665696d616765732e616c676f776f726b732e636f6d2f6e65772d616c676f776f726b732f77702d636f6e74656e742f75706c6f6164732f323032322f30352f33313130333033332f6465764f70732d636c6f75642d6e61746976652e676966.gif" 
        alt="Harinath Reddy Gunda" 
-       width="580" 
+       width="680" 
        style="border-radius:50%; border:3px solid #0078D7"/>
 </p>
 
@@ -26,15 +26,6 @@
 
 ---
 
-<!-- ## 👨‍💻 About Me
-
-- 🔭 Currently working as a **DevOps Engineer** at **Techno Consulting Services** *(Remote)*
-- 📍 Based in **Hyderabad, Telangana, India 🇮🇳**
-- 🧑‍💼 Joined as an **Intern in July 2024**, promoted to **Full-time Employee in September 2024**
-- ⚙️ Passionate about automation, cloud-native development, and scalable DevOps solutions
-- 🛠️ Strong background in **CI/CD**, **Cloud Platforms**, **Containers**, and **Monitoring** -->
-## 👨‍💻 About Me
-
 ## 👨‍💻 About Me
 
 <table>
@@ -51,7 +42,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/Harinathreddygunda/Harinathreddygunda/main/cloud-dev.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Harinathreddygunda/Harinathreddygunda/main/aboutme.gif" width="100%" />
 
 </td>
 </tr>
@@ -107,9 +98,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harinathreddygunda&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harinathreddygunda&layout=compact&theme=github_dark" alt="Top Languages" />
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=Harinathreddygunda&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harinathreddygunda&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
 </p>
 
 ---
