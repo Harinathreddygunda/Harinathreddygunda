@@ -98,13 +98,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=Harinathreddygunda&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harinathreddygunda&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harinathreddygunda&theme=tokyonight"/>
 </p>
 
 ---
