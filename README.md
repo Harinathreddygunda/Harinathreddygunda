@@ -1,42 +1,48 @@
-<!-- Banner / Header -->
-<!-- <p align="center">
-  <img src="https://img.icons8.com/color/96/devops.png" alt="DevOps Logo"/>
-</p> -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Harinathreddygunda/Harinathreddygunda/main/68747470733a2f2f6c697665696d616765732e616c676f776f726b732e636f6d2f6e65772d616c676f776f726b732f77702d636f6e74656e742f75706c6f6164732f323032322f30352f33313130333033332f6465764f70732d636c6f75642d6e61746976652e676966.gif" 
        alt="Harinath Reddy Gunda" 
-       width="680" 
-       style="border-radius:50%; border:3px solid #0078D7"/>
+       width="680"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Harinath Reddy Gunda</h1>
-<h3 align="center">🚀 DevOps Engineer | CI/CD Expert | Cloud Enthusiast</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Python & AI Explorer</h3>
 
 ---
 
-<!-- Badges for Quick Info -->
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-Azure-blue?logo=microsoftazure&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-Ready-blue?logo=docker&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Kubernetes-Expert-blue?logo=kubernetes&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GCP-Enabled-red?logo=googlecloud&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CI/CD-Automation-green?logo=githubactions&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Enthusiast-yellow?logo=python&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Agentic%20AI-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-- 🔭 Currently working as a **DevOps Engineer** at **Techno Consulting Services** *(Remote)*  
-- 📍 Based in **Hyderabad, Telangana, India 🇮🇳**  
-- 🧑‍💼 Joined as an **Intern in July 2024**, promoted to **Full-time Employee in September 2024**  
-- ⚙️ Passionate about automation, cloud-native development, and scalable DevOps solutions  
-- 🛠️ Strong background in **CI/CD**, **Cloud Platforms**, **Containers**, and **Monitoring**
+### 🚀 DevOps Engineer Building Scalable Systems
+
+I design, automate, and optimize infrastructure for reliability and performance.
+
+🔹 Passionate about **CI/CD, Cloud Infrastructure & Automation**  
+🔹 Strong believer in Infrastructure as Code & DevSecOps  
+🔹 Exploring **Agentic AI, AI Agents, and Large Language Models (LLMs)**  
+🔹 Python enthusiast building automation & AI-driven workflows  
+
+I focus on building systems that are:
+
+- ⚙️ Automated  
+- ☁️ Cloud-Native  
+- 📊 Observable  
+- 🔐 Secure  
+- 🤖 AI-Ready  
 
 </td>
 
@@ -50,75 +56,90 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+# 💼 Professional Experience
 
-### ☁️ Cloud & Infrastructure
+## 🏢 Techno Consulting Services  
+### DevOps Engineer (Remote)  
+📅 July 2024 – Present  
+
+Promoted from Intern to Full-Time DevOps Engineer within 2 months.
+
+### 🔧 Key Responsibilities
+
+- 🚀 Designed & maintained CI/CD pipelines using Azure DevOps & Jenkins
+- ☁️ Managed multi-cloud environments (Azure, AWS, GCP)
+- 🐳 Containerized microservices with Docker & deployed via Kubernetes
+- 📊 Implemented observability using Prometheus, Grafana & Azure Monitor
+- 🔐 Integrated HashiCorp Vault for secure secrets management
+- 🏗️ Automated infrastructure provisioning using Terraform
+- 🔁 Implemented Git-based workflows & branch strategies
+- 🤝 Collaborated using Azure Boards & JIRA in Agile teams
+
+### 📈 Impact
+
+- Reduced manual deployment effort through automation
+- Improved infrastructure reliability with monitoring stack
+- Strengthened security through proper access controls & secret rotation
+
+---
+
+# 🤖 DevOps + AI Exploration
+
+Currently exploring the intersection of **DevOps & AI**:
+
+- 🧠 Large Language Models (LLMs)
+- 🤖 Agentic AI architectures
+- 🛠️ AI Agents for automation
+- 📡 Observability for AI systems
+- ⚙️ Python-based AI orchestration tools
+
+Learning & experimenting with:
+- LangChain
+- LangGraph
+- OpenTelemetry
+- Model evaluation & monitoring concepts
+
+---
+
+# 🛠️ Tools & Technologies
+
+## ☁️ Cloud & Infrastructure
 <p>
 <img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform,ansible" />
 </p>
 
-### 🐳 Containers & Orchestration
+## 🐳 Containers & Orchestration
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
 <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
 </p>
 
-### 🔁 CI/CD & Automation
+## 🔁 CI/CD & Automation
 <p>
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" />
 </p>
 
-### 📊 Observability & Monitoring
+## 📊 Observability & Monitoring
 <p>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
 <img height="48" src="https://cdn.simpleicons.org/fluentd/0B5FFF" />
 </p>
 
-### 🔐 Security & DevSecOps
+## 🔐 Security & DevSecOps
 <p>
-<!-- <img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" /> -->
 <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" />
 <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" />
 </p>
 
-### 🗄️ Version Control & Collaboration
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
-</p>
-
-### 🖥️ Scripting & OS
+## 🖥️ Scripting & Development
 <p>
 <img src="https://skillicons.dev/icons?i=python,bash,linux" />
 </p>
 
-<!-- ---
-
-## 📸 DevOps in Action
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1482151/screenshots/9872395/media/2ae350e2b4c0183b3f47cb3163911a4a.gif" width="80%" alt="DevOps Animation"/>
-</p> -->
-
 ---
 
-## 💼 Experience
-
-### 🏢 Techno Consulting Services — *DevOps Engineer (Remote)*  
-📍 Coimbatore, Tamil Nadu, India *(Remote from Hyderabad)*  
-🗓️ **July 2024 – Present**
-
-- 🌱 Started as a **DevOps Intern** in **July 2024**
-- 💼 Promoted to **Full-time DevOps Engineer** in **September 2024**
-- 🧪 Built, deployed, and maintained CI/CD pipelines in **Azure DevOps** & **Jenkins**
-- ☁️ Managed cloud infrastructure across **Azure**, **AWS**, and **GCP**
-- 🐳 Containerized microservices using **Docker**, deployed via **Kubernetes**
-- 📈 Monitored systems using **Grafana**, **Prometheus**, and **Azure Monitor**
-- 🔄 Collaborated with teams using **JIRA** and **Azure Boards**
-
----
-
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harinathreddygunda&theme=tokyonight"/>
@@ -130,16 +151,16 @@
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-- 📍 **Location:** Hyderabad, Telangana, India  
-- 💼 **LinkedIn:** [Harinath Reddy Gunda](https://www.linkedin.com/in/harinath-reddy-gunda-88178123a/)  
-- 📧 **Email:** [harinathreddygundareddy@gmail.com](mailto:harinathreddygundareddy@gmail.com)  
-- 🧑‍💻 **GitHub:** [github.com/Harinathreddygunda](https://github.com/Harinathreddygunda)
+- 📍 Hyderabad, Telangana, India  
+- 💼 LinkedIn: https://www.linkedin.com/in/harinath-reddy-gunda-88178123a/  
+- 📧 Email: harinathreddygundareddy@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/Harinathreddygunda  
 
 ---
 
-## 💡 DevOps = People + Process + Tools ❤️
+# 💡 DevOps = Automation + Reliability + Continuous Learning
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/14268/screenshots/4557483/media/e49a45fc4fc85d2c7cc7fd08bfa68a2a.gif" width="70%" />
