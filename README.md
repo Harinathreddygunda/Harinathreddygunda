@@ -90,7 +90,7 @@ Promoted from Intern to Full-Time DevOps Engineer within 2 months.
 
 ### 🔧 Key Responsibilities
 
-- 🤖 Since March 2026, building deployment automation and Google Cloud and LLM infrastructure for **Sage**, the agentic SDLC platform from [SDLCAgents.ai](https://sdlcagents.ai)
+- 🤖 Since March 2026, building deployment automation and Google Cloud and LLM infrastructure for **Sage**, the agentic SDLC platform from **SDLCAgents.ai**
 - 🚀 Designed & maintained CI/CD pipelines using Azure DevOps & Jenkins
 - ☁️ Managed multi-cloud environments (Azure, AWS, GCP)
 - 🐳 Containerized microservices with Docker & deployed via Kubernetes
