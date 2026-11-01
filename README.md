@@ -90,7 +90,7 @@ Promoted from Intern to Full-Time DevOps Engineer within 2 months.
 
 ### 🔧 Key Responsibilities
 
-- 🤖 Building AI-agent deployment automation for **Sage**, the company's in-house agentic SDLC platform
+- 🤖 Since March 2026, building deployment automation and Google Cloud and LLM infrastructure for **Sage**, the agentic SDLC platform from [SDLCAgents.ai](https://sdlcagents.ai)
 - 🚀 Designed & maintained CI/CD pipelines using Azure DevOps & Jenkins
 - ☁️ Managed multi-cloud environments (Azure, AWS, GCP)
 - 🐳 Containerized microservices with Docker & deployed via Kubernetes
@@ -115,7 +115,7 @@ Promoted from Intern to Full-Time DevOps Engineer within 2 months.
 
 # 🚧 Currently Building: Sage – Agentic SDLC Platform
 
-Sage takes software from **business requirements to deployed code using AI agents**, with a **human approval between every stage**. It's an in-house product at Techno Consulting Services, and it's in active development.
+Sage takes software from **business requirements to deployed code using AI agents**, with a **human approval between every stage**. It's a product of **SDLCAgents.ai** that I've been building at Techno Consulting Services since **March 2026**, and it's in active development.
 
 ```mermaid
 flowchart TB
@@ -142,12 +142,15 @@ flowchart TB
 - 🚀 **Deployment agent** (primary author): generates a repository's Docker, Compose and nginx files, proves them in CI, deploys over SSH and raises a pull request. It handles Docker and non-Docker deployments, microservices, micro-frontends, and new or existing databases.
 - 🔐 **Safety by design**: safety-critical steps are written in code, not left to the model. Secrets are never shown to the LLM, plans are checked against repository evidence, generation stops after three failed attempts, and no sudo is used on servers.
 - 📜 **sage-logs**: a standalone NestJS service that streams live and historical PM2, Docker and systemd logs over one reconnecting SSH connection, using only scoped SSH access and allow-listed systemd units.
+- ☁️ **Google Cloud from scratch**: VPC, Artifact Registry, IAM, service accounts and Secret Manager, with AI agents deployed to Cloud Run using OIDC service-to-service authentication.
+- 🧠 **LLM infrastructure**: managed Model Rail, the internal multi-provider LLM gateway, with LiteLLM, AWS Bedrock and Ollama; benchmarked LLMs with vLLM on GPU instances and fine-tuned small language models.
+- 🖥️ **Linux servers**: Ubuntu 24.04 across dev, QA and production with PM2, systemd, nginx, PostgreSQL, DNS and SSL via Certbot.
 - 🧭 Mapped the service and agent hierarchy and added per-repository deployment fan-out to the orchestrator.
-- 🔁 CI/CD across environments with Azure Pipelines, GitHub Actions, SonarQube and obfuscated builds.
+- 🔁 CI/CD across environments with Azure Pipelines, GitHub Actions (multi-stage Docker builds pushed to Artifact Registry), SonarQube and obfuscated builds.
 
 **Results:** ✅ 561 automated tests passing · 🔀 50+ merged pull requests · 🌐 live deployments of a full-stack app and a two-service backend
 
-**Stack:** Python · TypeScript · FastAPI · NestJS · Next.js · Claude · Gemini · Claude Code · LiteLLM · Mem0 · PostgreSQL · Redis · Qdrant · Docker · Google Cloud
+**Stack:** Python · TypeScript · FastAPI · NestJS · Next.js · Claude · Gemini · Claude Code · LiteLLM · vLLM · AWS Bedrock · Ollama · Mem0 · PostgreSQL · Redis · Qdrant · Docker · Google Cloud Run · Artifact Registry
 
 ---
 
@@ -234,7 +237,7 @@ Learning & experimenting with:
 </p>
 
 ## 🤖 AI & Agents
-Claude · Claude Code · Gemini · LiteLLM · Mem0 · Qdrant · FastAPI · NestJS
+Claude · Claude Code · Gemini · LiteLLM · vLLM · AWS Bedrock · Ollama · Mem0 · Qdrant · FastAPI · NestJS
 
 ---
 
